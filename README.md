@@ -26,3 +26,4 @@ I'm a Python developer on a mission to master AI and become a full stack dev who
 
 ---
 Stay tuned and feel free to follow along or fork if you're on the same path!
+> [LinkeIn - Huzair Ahmed Khan](https://www.linkedin.com/in/huzair-ahmed-khan/)
